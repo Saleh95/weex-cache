@@ -1,0 +1,22 @@
+{
+  "name": "weex-cache",
+  "version": "1.0.0",
+  "description": "Caching system for weex.js mobile framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saleh95/weex-cache.git"
+  },
+  "keywords": [
+    "weexCache"
+  ],
+  "author": "saleh shehata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Saleh95/weex-cache/issues"
+  },
+  "homepage": "https://github.com/Saleh95/weex-cache#readme"
+}
